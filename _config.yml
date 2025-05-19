@@ -2,3 +2,4 @@ theme: minima
 title: Coming Soon
 author: Jenny
 description: Landing page for a potential blog
+mathjax: true
